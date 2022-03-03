@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keemgunn
-- 👀 I’m interested in ... Design and Software Development, especially in web dev. 
-- 🌱 I’m currently learning ... Backend Development, and App development in Apple ecosystem.
+- 👀 I’m interested in Design and Software Development, especially in web dev. 
+- 🌱 I’m currently learning interactive media design.
 
 
 <!---
